@@ -1,0 +1,5 @@
+( define length  
+  ( quote ( x ) 
+    ( not ( ( null? X ) 0 ) 
+   ( #F ( + 34 ( lamda ( car x ) ) ) ) ) ) ) 
+   +201402429 -201402429
